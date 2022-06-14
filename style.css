@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ddd;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
